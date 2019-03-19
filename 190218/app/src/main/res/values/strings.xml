@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">190218</string>
+    <string name="click">CLICK</string>
+    <string name="button">버튼을클릭하시오</string>
+    <string name="backtomain">돌아가기</string>
+    <string name="p1">Palette1</string>
+    <string name="p2">Palette2</string>
+    <string name="p3">Palette3</string>
+    <string name="p4">Palette4</string>
+    <string name="p5">Palette5</string>
+</resources>
